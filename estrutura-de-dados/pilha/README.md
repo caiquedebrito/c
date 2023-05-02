@@ -1,4 +1,6 @@
-# PILHA - FUNDAMENTOS
+# CAPÍTULO 2 - PILHAS
+
+## FUNDAMENTOS
 
 Pilha é uma lista em que todas as operações de inserção, remoção e acesso são feitas num mesmo extremo, denominado topo.
 
