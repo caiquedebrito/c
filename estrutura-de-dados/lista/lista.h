@@ -1,6 +1,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 
+// Implementação do livro
+
 #define fmt "%d"
 typedef int Item;
 typedef struct no {

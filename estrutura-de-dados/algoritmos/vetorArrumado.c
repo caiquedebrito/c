@@ -30,7 +30,6 @@ int vetorArrumado(int v[], int n) {
         if (maiores[k] > v[i]) {
           return -1; // Não está arrumado
         }
-
       }
 
       maiores[totalMaiores++] = v[i];
@@ -38,7 +37,7 @@ int vetorArrumado(int v[], int n) {
     }
   }
 
-  return v[j]; // Está arrumado
+  return j; // Está arrumado
 }
 
 int main() {
