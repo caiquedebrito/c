@@ -1,3 +1,6 @@
 .vscode
 *.exe
 output
+.ccls-cache
+.replit
+*.nix
